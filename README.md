@@ -4,7 +4,7 @@ A dark terminal-aesthetic portfolio site built with **React + Vite**, featuring 
 
 ## 🔗 Live Demo
 
-[akash-singh.vercel.app](#) — *update this link after deploying*
+[akash-singh.vercel.app](https://portfolio-ak040.vercel.app/) 
 
 ---
 
